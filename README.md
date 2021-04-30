@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently working in **Lenmo**, a platform that would democratize finance and access to financial datas. 
+- 🍉 I'm currently working on **Lenmo**, a platform that would democratize finance and access to financial datas. 
 - 🔥 soon intern at [Quantconnect](https://www.quantconnect.com/)
 - 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
 - 📚 Open to any kind of collaboration
