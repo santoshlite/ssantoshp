@@ -16,4 +16,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
 
-<iframe src="https://giphy.com/embed/14SHMhEv54pNvO8eHF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brooklynninenine-nbc-tv-show-brooklyn99-14SHMhEv54pNvO8eHF">via GIPHY</a></p>
+![](https://giphy.com/embed/14SHMhEv54pNvO8eHF)
+
