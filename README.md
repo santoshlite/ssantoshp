@@ -7,11 +7,13 @@
 
 
 - 🍉 I'm currently working in **Lenmo**, a platform that would democratize finance and access to financial datas. 
+- 🔥 soon intern at [Quantconnect](https://www.quantconnect.com/)
 - 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
+- 📚 Open to any kind of collaboration
 - 🌱 I’m currently learning more complex **OOP stuff**
 - 💬 Ask me about anything
 - 📫 How to reach me: **santoshpassoubady@gmail.com**
-- My star project is [Trafalgar](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
+- My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 - ⚡ Fun fact : still in high school
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
