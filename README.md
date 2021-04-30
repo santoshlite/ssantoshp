@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
+!(https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
