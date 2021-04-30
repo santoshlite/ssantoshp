@@ -7,8 +7,10 @@
 
 
 - 🍉 I'm currently working on **Lenmo**, a platform that would democratize finance and access to financial datas. 
+- 👍 Interested in chemistry, design, quantitative finance + tech in general
 - 🔥 soon intern at [Quantconnect](https://www.quantconnect.com/)
 - 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
+- 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 - 📚 Open to any kind of collaboration
 - 🌱 I’m currently learning more complex **OOP stuff**
 - 💬 Ask me about anything
