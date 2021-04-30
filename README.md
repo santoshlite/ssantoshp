@@ -14,7 +14,7 @@
 - 📚 Open to any kind of collaboration...
 - 🌱 I’m currently learning more complex **OOP stuff**
 - 💬 Ask me about anything
-- 📫 How to reach me: **santoshpassoubady@gmail.com**
+- 📫 How to reach me: **santoshpassoubady@gmail.com** or Santosh#9328 (Discord)
 - My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 - ⚡ Fun fact : still in high school
 
