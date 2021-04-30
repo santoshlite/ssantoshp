@@ -18,5 +18,3 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
 
-![](giphy.gif)
-
