@@ -20,5 +20,6 @@
 
 - My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
 
