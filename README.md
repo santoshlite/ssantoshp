@@ -12,7 +12,7 @@
 
 - 🔥 soon intern at [**Quantconnect**](https://www.quantconnect.com/)
 
-- 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
+- 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++ (just learned C++)
 
 - 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 
