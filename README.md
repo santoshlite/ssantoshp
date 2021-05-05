@@ -23,5 +23,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssantoshp&hide=jupyter,html))](https://github.com/ssantoshp/github-readme-stats)
+
 
