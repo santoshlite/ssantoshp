@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently working on **Lenmo**, a platform that would **democratize finance** and access to financial datas. 
+- 🍉 I'm currently working on **Lenmo**, a platform that would **democratize finance** and **access to financial datas** 
 
 - 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
 
