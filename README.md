@@ -8,9 +8,7 @@
 
 - 🍉 I'm currently working on **Lenmo**, a platform that would **democratize finance** and access to financial datas. 
 
-- 👍 Interested in chemistry, design, quantitative finance
-
-- 🔥 soon intern at [**Quantconnect**](https://www.quantconnect.com/)
+- 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
 
 - 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
 
@@ -19,6 +17,8 @@
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
 - My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
+
+- I want to build stuff that matters 💭
 
 
 
