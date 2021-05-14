@@ -18,7 +18,7 @@
 
 - My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 
-- I want to build stuff that matters 💭
+- I want to build stuff that matters ☁️
 
 
 
