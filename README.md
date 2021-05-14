@@ -22,7 +22,7 @@
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)&emsp;&emsp;
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)&emsp;&emsp;&emsp;
 <img src="bit.png"/>
 
 
