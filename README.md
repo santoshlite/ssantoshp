@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
-- My star project is [**Trafalgar**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
+- My star project is [**Empyrial**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 
 - I want to build stuff that matters ☁️
 
