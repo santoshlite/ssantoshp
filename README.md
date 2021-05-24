@@ -10,7 +10,7 @@
 
 - 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
 
-- 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C++
+- 💻 Technical skills : Python, HTML/CSS, React.js, Ionic, C, C++
 
 - 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 
