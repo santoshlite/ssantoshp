@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently working on **Lenmo**, a platform that would **democratize finance** and **access to financial datas** 
+- 🍉 I'm currently working on [**Empyrial**](https://github.com/ssantoshp/Empyrial), an AI and data-driven quantitative portfolio management platform for risk and performance analytics 投资组合管理
 
 - 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
 
@@ -15,8 +15,6 @@
 - 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
-
-- My star project is [**Empyrial**](https://github.com/ssantoshp/trafalgar), a python library to make development of portfolio analysis faster and easier
 
 - I want to build stuff that matters ☁️
 
