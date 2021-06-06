@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently working on [**Empyrial**](https://github.com/ssantoshp/Empyrial), an AI and data-driven quantitative portfolio management platform for risk and performance analytics 投资组合管理
+- 🍉 I'm currently working on [**Empyrial**](https://github.com/ssantoshp/Empyrial), an AI and data-driven quantitative portfolio management platform
 
 - 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
 
