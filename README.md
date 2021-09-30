@@ -6,9 +6,9 @@
 </p>
 
 
-- 🍉 I'm currently working on [**Empyrial**](https://github.com/ssantoshp/Empyrial), an AI and data-driven quantitative portfolio management platform
+- 🍉 I'm currently working on **Sansan**, an AI project
 
-- 👍 Interested in **chemistry**, **design**, **quantitative finance** and **space** 🚀
+- 👍 Interested in **chemistry**, **math**, **finance** and **AI**
 
 - 💻 Technical skills : Python, HTML/CSS, JS, Ionic, C, C++
 
