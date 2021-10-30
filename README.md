@@ -8,7 +8,7 @@
 
 - 🍉 I'm currently working on **Sansan**, an AI project
 
-- 👍 Interested in **chemistry**, **math**, **finance** and **AI**
+- 👍 Interested in **math**, **finance** and **AI**
 
 - 💻 Technical skills : Python, HTML/CSS, JS, Ionic, C, C++
 
