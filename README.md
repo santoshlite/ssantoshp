@@ -14,7 +14,7 @@
 
 - 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 
-- 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
+- 📫 How to reach me: **santoshpassoubady@gmail.com** or **【             】#9328** (Discord)
 
 - I want to build stuff that matters ☁️
 
