@@ -6,11 +6,11 @@
 </p>
 
 
-- 🍉 I'm currently working on **Sansan**, an AI project
+- 🍉 I'm currently working on **my AI skills** (
 
 - 👍 Interested in **math**, **finance** and **AI**
 
-- 💻 Technical skills : Python, HTML/CSS, JS, Ionic, C, C++
+- 💻 Technical skills : Python, C/C++, Java, HTML/CSS/JS
 
 - 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
 
