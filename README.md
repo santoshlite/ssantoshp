@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently working on **my AI skills** (
+- 🍉 I'm currently working on **my AI skills** 
 
 - 👍 Interested in **math**, **finance** and **AI**
 
