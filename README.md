@@ -7,7 +7,7 @@
 
 
 - 🍉 I'm currently interested in **Quantum Computing** and **Differential Equations**
--
+
 - 👍 Interested in **math**, **finance**, **AI**, **anything that can save us from global warming**
 
 - 💻 Technical skills : Python, C/C++, Java, HTML/CSS/JS
