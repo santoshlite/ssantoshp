@@ -6,13 +6,13 @@
 </p>
 
 
-- 🍉 I'm currently interested in **Quantum Computing**, **NLP** and **Reinforcement Learning**
+- 🍉 I'm currently interested in **Reinforcement Learning**, **GPU Programming** and, **System Design**
 
-- 👍 Interested in **math**, **finance**, **AI**, **anything that can save us from global warming**
+- 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
 
-- 💻 Technical skills : Python, C/C++, Java, HTML/CSS/JS
+- 💻 Technical skills : Python, C/C++, Java, HTML/CSS, JS
 
-- 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin, learning AWS...
+- 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
