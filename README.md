@@ -10,9 +10,7 @@
 
 - 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
 
-- 💻 Technical skills : Python, C/C++, Java, HTML/CSS, JS
-
-- 💡 Non/less technical skills : Office, Adobe XD, Figma, Zeplin
+- 💻 Technical skills : Python, C/C++, Java, HTML/CSS
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
