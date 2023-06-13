@@ -10,7 +10,7 @@
 
 - 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
 
-- 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Svelte, React, Redis, MongoDB, CockroachDB
+- 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Prisma, Svelte, React, Redis, MongoDB, CockroachDB, Modal
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
