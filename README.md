@@ -6,11 +6,11 @@
 </p>
 
 
-- 🍉 I'm currently interested in **Reinforcement Learning**, **GPU Programming** and, **System Design**
+- 🍉 I'm currently learning about **ZKML**, **Distributed Systems**, **Generative AI**
 
 - 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
 
-- 💻 Programming languages : Python, C/C++, Java, HTML/CSS, JS
+- 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Svelte, React, Redis, MongoDB, CockroachDB
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
