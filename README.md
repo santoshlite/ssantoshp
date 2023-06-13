@@ -12,6 +12,8 @@
 
 - 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Prisma, Svelte, React, Redis, MongoDB, CockroachDB, Modal
 
+- If I were to be a data structure I would be a **hashmap** 🗺️
+
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
 
