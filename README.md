@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently learning about **ZKML**, **Distributed Systems**, **Generative AI**
+- 🍉 I'm currently learning about **ZKML**, **Distributed Systems**, **Backend stuffs**
 
 - 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
 
