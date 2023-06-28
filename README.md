@@ -8,7 +8,7 @@
 
 - 🍉 I'm currently learning about **ZKML**, **Distributed Systems**, **Backend stuffs**
 
-- 👍 Interested in **math**, **AI** and, **anything that can save us from global warming**
+- 👍 Interested in **math**, **backend** and, **anything that can save us from global warming**
 
 - 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Prisma, Svelte, React, Redis, MongoDB, CockroachDB, Modal
 
