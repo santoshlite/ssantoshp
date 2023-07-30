@@ -8,7 +8,7 @@
 
 - 🍉 I'm currently learning about **HPC**, **ZK**, and **PyTorch**
 
-- 👍 Interested in **math**, **backend** and, **anything that can save us from global warming**
+- 👍 Interested in **math**, **HPC** and, **anything that can save us from global warming**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
