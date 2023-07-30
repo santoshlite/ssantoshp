@@ -6,13 +6,16 @@
 </p>
 
 
-- 🍉 I'm currently learning about **ZKML**, **Distributed Systems**, **Backend stuffs**
+- 🍉 I'm currently learning about **HPC**, **ZK**, and **PyTorch**
 
 - 👍 Interested in **math**, **backend** and, **anything that can save us from global warming**
 
-- 💻 Worked with : Python, C/C++, Java, HTML/CSS, JS, Rust, Prisma, Svelte, React, Redis, MongoDB, CockroachDB, Modal
+- 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
-- If I were to be a data structure I would be a **hashmap** 🗺️
+- 📖 Technologies: Pandas, Numpy, Git, Docker, PostgreSQL, CockroachDB, MongoDB, Redis, GitLab
+CI/CD, GitHub Actions, Prisma, Cobra-cli, Flask, Node.js, Svelte, Linux, Figma
+
+- 🗺️ Favourite Data Structure: hashmap
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
