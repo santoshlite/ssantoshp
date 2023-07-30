@@ -20,7 +20,7 @@ CI/CD, GitHub Actions, Prisma, Cobra-cli, Flask, Node.js, Svelte, Linux, Figma
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **Santosh#9328** (Discord)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=terror&count_private=true)&emsp;&emsp;&emsp;
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)&emsp;&emsp;&emsp;
 <img src="bit.png"/>
 
 
