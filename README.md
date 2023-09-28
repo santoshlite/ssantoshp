@@ -6,9 +6,9 @@
 </p>
 
 
-- 🍉 I'm currently learning about **HPC**, **PyTorch**, and **Verilog**
+- 🍉 I'm currently learning about **Robotics** and **PyTorch**.
 
-- 👍 Interested in **math**, **HPC** and, **anything that can run blazingly fast**
+- 👍 Interested in **math**, **cool tech stuff** and, **anything that can run blazingly fast**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
