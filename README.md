@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently learning about **Robotics** and **PyTorch**.
+- 🍉 I'm currently learning about **Robotics** and **Machine Learning**.
 
 - 👍 Interested in **math**, **cool tech stuff** and, **anything that can run blazingly fast**
 
