@@ -6,9 +6,9 @@
 </p>
 
 
-- 🍉 I'm currently learning about **Robotics** and **Machine Learning**.
+- 🍉 I'm currently learning about **TBD**.
 
-- 👍 Interested in **math**, **cool tech stuff** and, **anything that can run blazingly fast**
+- 👍 Interested in **stats**, **cool tech stuff** and, **anything that runs blazingly fast**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
