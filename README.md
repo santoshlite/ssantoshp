@@ -12,7 +12,7 @@
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
-- 📖 Technologies: Pandas, Numpy, Git, Docker, PostgreSQL, CockroachDB, MongoDB, Redis, GitLab
+- 📖 Technologies: Pytorch, Pandas, Git, Docker, PostgreSQL, CockroachDB, MongoDB, Redis, GitLab
 CI/CD, GitHub Actions, Prisma, Cobra-cli, Flask, Node.js, Svelte, Linux, Figma
 
 - 🗺️ Favourite Data Structure: hashmap
