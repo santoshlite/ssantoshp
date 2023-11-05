@@ -8,7 +8,7 @@
 
 - 🍉 I'm currently learning about [**TBD**].
 
-- 👍 Interested in **stats**, **building cool tech stuff** and, **anything that runs blazingly fast**
+- 👍 Interested in **stats**, **building cool tech stuff** and, **poker**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
