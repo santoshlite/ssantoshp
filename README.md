@@ -1,4 +1,4 @@
-### Hey there, I'm Santosh 👋
+### Hey there, I'm Santosh
 
 <p align="center"> 
   Visitor count<br>
