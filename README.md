@@ -1,4 +1,4 @@
-### Hey there, I'm Santosh
+### Hey there, it's me Santosh
 
 <p align="center"> 
   Visitor count<br>
@@ -8,7 +8,7 @@
 
 - 🍉 I'm currently learning about [**TBD**].
 
-- 👍 Interested in **stats**, **cool tech stuff** and, **anything that runs blazingly fast**
+- 👍 Interested in **stats**, **building cool tech stuff** and, **anything that runs blazingly fast**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
 
