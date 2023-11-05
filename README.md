@@ -10,7 +10,7 @@
 
 - 👍 Interested in **stats**, **building cool tech stuff** and, **poker**
 
-- 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JavaScript, Rust, Bash
+- 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JS/TS, Bash
 
 - 🗺️ Favourite Data Structure: hashmap
 
