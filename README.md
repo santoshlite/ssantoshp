@@ -6,7 +6,7 @@
 </p>
 
 
-- 🍉 I'm currently learning about [**TBD**].
+- 🍉 I'm currently working on **building a better way for developers to write docs**.
 
 - 👍 Interested in **stats**, **building cool tech stuff** and, **poker**
 
