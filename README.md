@@ -8,11 +8,11 @@
 
 - 🍉 I'm currently working on **building a better way for developers to write docs**.
 
-- 👍 Interested in **stats**, **building cool tech stuff** and, **poker**
+- 👍 Interested in **building cool tech stuff**, **product design** and, **poker**
 
 - 💻 Programming languages: Python, SQL, Java, C, C++, Golang, TypeScript, JS/TS, Bash
 
-- 🗺️ Favourite Data Structure: hashmap
+- 🗺️ Favourite Data Structure: Hashmap
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **[ssantoshp](https://discord.com/users/759478394865057874)** (Discord)
   
