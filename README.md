@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **santoshpassoubady@gmail.com** or **[ssantoshp](https://discord.com/users/759478394865057874)** (Discord)
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantoshp&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=santoshlite&count_private=true)
 
 
 
